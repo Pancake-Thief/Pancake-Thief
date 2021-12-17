@@ -7,9 +7,11 @@ Contact information:
 	Personal E-mail: samueljoshuadavid@gmail.com
 	School E-mail: sdbrione@uci.edu
 
-Languages I am relatively confident in:
+Languages I am relatively confident in (In order of highest to lowest):
 
 	C
+	Verilog HDL
+	Java
 	Python
 
 Languages I have coded in:
@@ -17,4 +19,6 @@ Languages I have coded in:
 	C
 	Python
 	VHDL
+	Java
+	Verilog HDL
 	RISC-V/Assembly
