@@ -22,3 +22,4 @@ Languages I have coded in:
 	Java
 	Verilog HDL
 	RISC-V/Assembly
+	MIPS
